@@ -22,6 +22,6 @@
 ### 🎯 Why You’re Here  
 This profile is the **cover page**.  
 The real story is in the **repositories**.  
-Take a look — you might just find something worth starring ⭐  
+Take a look,you might just find something worth starring ⭐  
 
 👉 **[Explore the repos](https://github.com/itz-naman007?tab=repositories)**  
